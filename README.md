@@ -17,7 +17,7 @@ This repository serves two primary purposes:
 
 # **"How do I use Arrowhead?"**
 
-* **1st**: Head over to [builds](https://github.com/ighvee/arrowhead/tree/main/builds) and install the [latest]() build.
+* **1st**: Head over to [builds](https://github.com/ighvee/arrowhead/releases) and install the [latest](https://github.com/ighvee/arrowhead/releases/tag/v1.0.0) build.
 * **2nd**: Set your game to borderless fullscreen. (if you use stretched res set your display to your resolution)
 * **3rd**: Open Arrowhead.exe and wait for the crosshair to appear in the middle of your screen.
 * **4th**: And just like that you are done and have a crosshair that doesn't get flagged by anti-cheats.
