@@ -9,13 +9,13 @@ This repository serves two primary purposes:
 * **Crosshair**: Providing a simple crosshair that doesn't get flagged by anti-cheats.
 * **Learning**: How to develop and write a usable product without the assistance of LLMs.
 
-# **"How does Arrowhead work?"**
+# **How does Arrowhead work?**
 
 * **1st**: Creates a transparent window that is the size of your current display.
 * **2nd**: Creates a transparent widget with the image of the crosshair at the center of your current display.
 * **3rd**: Makes the window completely click-through so your gaming is **NOT** interrupted
 
-# **"How do I use Arrowhead?"**
+# **How do I use Arrowhead?**
 
 * **1st**: Head over to [builds](https://github.com/ighvee/arrowhead/releases) and install the [latest](https://github.com/ighvee/arrowhead/releases/tag/v1.0.0) build.
 * **2nd**: Set your game to borderless fullscreen. (if you use stretched res set your display to your resolution)
