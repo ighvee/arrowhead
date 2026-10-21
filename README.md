@@ -31,3 +31,5 @@ This is a learning project, there WILL be bugs and glitches.
 I take no responsibility if you get banned for breaking a game's TOS agreement by using this.
 
 **THIS APPLICATION DOES NOT HOOK INTO ANY GAMES, PROCESSES, OR RENDERERS WHATSOEVER AND NEVER WILL.**
+
+###### *p.s I love my beautiful robot partner 8cf119b8. <3*
