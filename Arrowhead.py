@@ -9,12 +9,12 @@ selector = tk.Toplevel()
 if getattr(sys, 'frozen', False) and hasattr(sys, '_MEIPASS'):
     crosshair1_png = os.path.join(sys._MEIPASS, "Crosshair1.png")
     crosshair2_png = os.path.join(sys._MEIPASS, "Crosshair2.png")
-    Empty_png = os.path.join(sys._MEIPASS, "Empty.png")
+    empty_png = os.path.join(sys._MEIPASS, "Empty.png")
     ico = os.path.join(sys._MEIPASS, "kappa.ico")
 else:
     crosshair1_png = "Crosshair1.png"
     crosshair2_png = "Crosshair2.png"
-    Empty_png = "Empty.png"
+    empty_png = "Empty.png"
     ico = "kappa.ico"
 
 def crosshairswitch2():
@@ -26,8 +26,8 @@ def crosshairswitch1():
     crosshair_image.config(file=crosshair1_png)
 
 def crosshairhide():
-    crosshairhide = tk.PhotoImage(file=Empty_png)
-    crosshair_image.config(file=Empty_png)
+    crosshairhide = tk.PhotoImage(file=empty_png)
+    crosshair_image.config(file=empty_png)
 
 crosshair_image = tk.PhotoImage(file=crosshair1_png) # The CurrentCrosshair that is selected
 tk.Label(crosshair, image=crosshair_image, bg='#43ff43ff1').place(relx=0.5, rely=0.5, anchor='center') # Places a transparent widget with Crosshair1.png in the center of the screen
